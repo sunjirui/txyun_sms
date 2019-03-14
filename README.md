@@ -43,4 +43,4 @@ Or install it yourself as:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/txyun-sms.
+Bug reports and pull requests are welcome on GitHub at https://gitlab.com/sunjirui/txyun-sms.
