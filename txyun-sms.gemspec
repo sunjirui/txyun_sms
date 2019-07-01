@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{A Ruby Gem for using tx-sms service.}
   spec.description   = %q{A Ruby Gem for using tx-sms service.}
-  spec.homepage      = "https://gitlab.com/sunjirui/txyun-sms"
+  spec.homepage      = "https://github.com/sunjirui/txyun_sms"
   spec.license     = "MIT"
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
